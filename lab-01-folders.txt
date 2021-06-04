@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6495-24E1
+
+ Directory of C:\Users\munso\Desktop\cit281
+
+04/01/2021  02:13 PM    <DIR>          .
+04/01/2021  02:13 PM    <DIR>          ..
+04/01/2021  02:13 PM                 0 lab-01-folders.txt
+03/31/2021  02:53 PM    <DIR>          p1
+03/31/2021  02:42 PM    <DIR>          p2
+03/31/2021  02:42 PM    <DIR>          p3
+03/31/2021  02:42 PM    <DIR>          p4
+03/31/2021  02:42 PM    <DIR>          p5
+03/31/2021  02:43 PM    <DIR>          p6
+03/31/2021  02:43 PM    <DIR>          p7
+03/31/2021  02:43 PM    <DIR>          p8
+               1 File(s)              0 bytes
+              10 Dir(s)  229,864,165,376 bytes free
